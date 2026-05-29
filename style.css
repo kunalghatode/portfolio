@@ -178,7 +178,7 @@ nav ul li a:hover{
     margin-top: 15px;
     line-height: 1.6;
     color: #c7c7c7;
-    font-weight: 600;
+    font-weight: 900 !important;
 }
 
 .services-list div h2{
@@ -198,6 +198,7 @@ nav ul li a:hover{
     transform: translateY(-8px) scale(1.02);
 }
 #certifications .services-list div:hover{
+    background: #262626 !important;
     transform: translateY(-6px) scale(1.01);
 }
 
